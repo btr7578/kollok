@@ -7,7 +7,7 @@ using System.Xml.Linq;
 
 namespace electro
 {
-    internal class Cabels
+    class Cabels
     {
         public string name;
         public double price;
@@ -16,7 +16,7 @@ namespace electro
         {
             name = n;
             price = p;
-            length = l * 39.37;
+            length = l;
         }
         public double GetPrice()
         {

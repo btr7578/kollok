@@ -3,12 +3,20 @@
   "WorkspaceRootPath": "C:\\Users\\stud\\Desktop\\kollok\\electro\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{48911111-1682-4210-A3AC-EABAAD679F79}|electro\\electro.csproj|c:\\users\\stud\\desktop\\kollok\\electro\\electro\\cabels.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{48911111-1682-4210-A3AC-EABAAD679F79}|electro\\electro.csproj|solutionrelative:electro\\cabels.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{48911111-1682-4210-A3AC-EABAAD679F79}|electro\\electro.csproj|C:\\Users\\stud\\Desktop\\kollok\\electro\\electro\\dopokno.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{48911111-1682-4210-A3AC-EABAAD679F79}|electro\\electro.csproj|solutionrelative:electro\\dopokno.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{48911111-1682-4210-A3AC-EABAAD679F79}|electro\\electro.csproj|c:\\users\\stud\\desktop\\kollok\\electro\\electro\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{48911111-1682-4210-A3AC-EABAAD679F79}|electro\\electro.csproj|solutionrelative:electro\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+      "AbsoluteMoniker": "D:0:0:{48911111-1682-4210-A3AC-EABAAD679F79}|electro\\electro.csproj|C:\\Users\\stud\\Desktop\\kollok\\electro\\electro\\main.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{48911111-1682-4210-A3AC-EABAAD679F79}|electro\\electro.csproj|solutionrelative:electro\\main.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{48911111-1682-4210-A3AC-EABAAD679F79}|electro\\electro.csproj|c:\\users\\stud\\desktop\\kollok\\electro\\electro\\main.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{48911111-1682-4210-A3AC-EABAAD679F79}|electro\\electro.csproj|solutionrelative:electro\\main.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{48911111-1682-4210-A3AC-EABAAD679F79}|electro\\electro.csproj|c:\\users\\stud\\desktop\\kollok\\electro\\electro\\cabels.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{48911111-1682-4210-A3AC-EABAAD679F79}|electro\\electro.csproj|solutionrelative:electro\\cabels.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -18,31 +26,56 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 3,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 3,
               "Title": "Cabels.cs",
               "DocumentMoniker": "C:\\Users\\stud\\Desktop\\kollok\\electro\\electro\\Cabels.cs",
               "RelativeDocumentMoniker": "electro\\Cabels.cs",
               "ToolTip": "C:\\Users\\stud\\Desktop\\kollok\\electro\\electro\\Cabels.cs",
               "RelativeToolTip": "electro\\Cabels.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAiAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAEAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-11-20T08:21:06.053Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Main.cs",
+              "DocumentMoniker": "C:\\Users\\stud\\Desktop\\kollok\\electro\\electro\\Main.cs",
+              "RelativeDocumentMoniker": "electro\\Main.cs",
+              "ToolTip": "C:\\Users\\stud\\Desktop\\kollok\\electro\\electro\\Main.cs",
+              "RelativeToolTip": "electro\\Main.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACMAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-20T08:37:50.249Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "Form1.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
-              "DocumentMoniker": "C:\\Users\\stud\\Desktop\\kollok\\electro\\electro\\Form1.cs",
-              "RelativeDocumentMoniker": "electro\\Form1.cs",
-              "ToolTip": "C:\\Users\\stud\\Desktop\\kollok\\electro\\electro\\Form1.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
-              "RelativeToolTip": "electro\\Form1.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "Title": "Main.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "DocumentMoniker": "C:\\Users\\stud\\Desktop\\kollok\\electro\\electro\\Main.cs",
+              "RelativeDocumentMoniker": "electro\\Main.cs",
+              "ToolTip": "C:\\Users\\stud\\Desktop\\kollok\\electro\\electro\\Main.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "RelativeToolTip": "electro\\Main.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-11-20T08:19:03.996Z",
+              "EditorCaption": " [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "DopOkno.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "DocumentMoniker": "C:\\Users\\stud\\Desktop\\kollok\\electro\\electro\\DopOkno.cs",
+              "RelativeDocumentMoniker": "electro\\DopOkno.cs",
+              "ToolTip": "C:\\Users\\stud\\Desktop\\kollok\\electro\\electro\\DopOkno.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "RelativeToolTip": "electro\\DopOkno.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-20T08:41:48.93Z",
               "EditorCaption": " [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]"
             }
           ]
